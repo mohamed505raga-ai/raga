@@ -1,6 +1,31 @@
 {
   "products": [
     {
+      "id": "classic-fit",
+      "name": "Black Tee / Classic Fit",
+      "nameAr": "تيشيرت أسود / كلاسيك",
+      "regularPrice": 200,
+      "discountPrice": 116,
+      "description": "The original Black T-Shirt. Everyday fit with a clean neckline and soft-touch cotton.",
+      "descriptionAr": "التيشيرت الأسود الأصلي. قصة يومية ورقبة نظيفة وقماش ناعم.",
+      "images": [
+        "https://images.pexels.com/photos/7671167/pexels-photo-7671167.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "colors": [
+        {
+          "name": "Deep Black",
+          "hex": "#000000"
+        }
+      ],
+      "inventory": {
+        "Deep Black": 45
+      },
+      "visible": true,
+      "meta": [
+        "100% cotton"
+      ]
+    },
+    {
       "id": "oversized",
       "name": "Black Tee / Oversized",
       "nameAr": "تيشيرت أسود / أوفرسايز",
@@ -23,31 +48,6 @@
       "visible": true,
       "meta": [
         "Soft, mid-weight cotton · Unisex fit"
-      ]
-    },
-    {
-      "id": "slim-fit",
-      "name": "Black Tee / Slim",
-      "nameAr": "تيشيرت أسود / سليم",
-      "regularPrice": 200,
-      "discountPrice": null,
-      "description": "A sharper, slimmer silhouette that sits close to the body for a more tailored look.",
-      "descriptionAr": "قصة أنحف تلتصق بالجسم لمظهر أكثر أناقة.",
-      "images": [
-        "https://images.pexels.com/photos/7671165/pexels-photo-7671165.jpeg?auto=compress&cs=tinysrgb&w=800"
-      ],
-      "colors": [
-        {
-          "name": "Deep Black",
-          "hex": "#000000"
-        }
-      ],
-      "inventory": {
-        "Deep Black": 21
-      },
-      "visible": true,
-      "meta": [
-        "Soft, breathable fabric · Curved hem"
       ]
     }
   ],
