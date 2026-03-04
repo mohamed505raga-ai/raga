@@ -26,15 +26,15 @@
       ]
     },
     {
-      "id": "slim-fit",
-      "name": "Black Tee / Slim",
-      "nameAr": "تيشيرت أسود / سليم",
+      "id": "oversized",
+      "name": "Black Tee / Oversized",
+      "nameAr": "تيشيرت أسود / أوفرسايز",
       "regularPrice": 200,
       "discountPrice": null,
-      "description": "A sharper, slimmer silhouette that sits close to the body for a more tailored look.",
-      "descriptionAr": "قصة أنحف تلتصق بالجسم لمظهر أكثر أناقة.",
+      "description": "A relaxed, street-ready cut with dropped shoulders. Perfect for a bolder look.",
+      "descriptionAr": "قصة مريحة مع أكتاف منخفضة. مثالي للمظهر الجريء.",
       "images": [
-        "https://images.pexels.com/photos/7671165/pexels-photo-7671165.jpeg?auto=compress&cs=tinysrgb&w=800"
+        "https://images.pexels.com/photos/7671168/pexels-photo-7671168.jpeg?auto=compress&cs=tinysrgb&w=800"
       ],
       "colors": [
         {
@@ -43,11 +43,11 @@
         }
       ],
       "inventory": {
-        "Deep Black": 21
+        "Deep Black": 23
       },
       "visible": true,
       "meta": [
-        "Soft, breathable fabric · Curved hem"
+        "Soft, mid-weight cotton · Unisex fit"
       ]
     }
   ],
